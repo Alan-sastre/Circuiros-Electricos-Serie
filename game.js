@@ -26,6 +26,9 @@ const config = {
   scale: {
     mode: Phaser.Scale.FIT,
     autoCenter: Phaser.Scale.CENTER_BOTH,
+    width: 1000,
+    height: 500,
+    expandParent: false,
   },
 };
 
